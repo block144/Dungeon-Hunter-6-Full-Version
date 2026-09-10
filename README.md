@@ -267,4 +267,4 @@ This repository serves as the official landing page for Dungeon Hunter 6. The so
 **Get the most recent version of Dungeon Hunter 6 today!**
 
 ---
-**Last updated:** 2026-09-10 06:43:19 UTC
+**Last updated:** 2026-09-10 11:54:38 UTC
